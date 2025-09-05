@@ -1,5 +1,6 @@
 # basic-ic-layouts
 Showcase the layout that I did when I was in second year, using Cadence Virtuoso.
+All the components have passed DRC and LVS
 List of the compponents:
 
 1. Inverter with 64 fingers, which can be used as buffer and driver for larger loads.
@@ -44,6 +45,7 @@ Layout:
 <img width="1913" height="980" alt="image" src="https://github.com/user-attachments/assets/96d2df84-9014-4d7e-b697-5cd0ad298b4e" />
 
 Testbench:
+<img width="1910" height="1001" alt="image" src="https://github.com/user-attachments/assets/ddd0217a-d5ff-482e-b0db-0c25da1e4a2b" />
 
 
 
@@ -53,32 +55,48 @@ Testbench:
      total nmos W: 500n
      transistor I: 500n
      Vdd: 2.5V
-  Symbol:
+
+Symbol:
+<img width="899" height="727" alt="image" src="https://github.com/user-attachments/assets/413c9fc3-3a22-4de5-bda0-53197f9afc96" />
 
 Schematic:
+<img width="903" height="721" alt="image" src="https://github.com/user-attachments/assets/499b1734-e6ad-46d1-9312-724fd0235243" />
 
 Layout:
+<img width="899" height="728" alt="image" src="https://github.com/user-attachments/assets/0ffe341a-4925-4ff7-9a4b-7b7e09ff449b" />
 
 Testbench:
+<img width="1910" height="977" alt="image" src="https://github.com/user-attachments/assets/d74ba657-09be-432e-bbb8-14d4c03864f9" />
+
+
+
 
 5. OR Gate: (NOR + INV)
 Symbol:
+<img width="902" height="725" alt="image" src="https://github.com/user-attachments/assets/730ac75a-a91d-4980-bcc4-22398d28406b" />
 
 Schematic:
+<img width="898" height="724" alt="image" src="https://github.com/user-attachments/assets/922508ef-f186-4e02-8e79-39c7ea1e4b8c" />
 
 Layout:
+<img width="1910" height="977" alt="image" src="https://github.com/user-attachments/assets/f55dec16-25bf-4077-99e1-ce1027d11386" />
 
 Testbench:
+<img width="1914" height="976" alt="image" src="https://github.com/user-attachments/assets/9e13c521-f3b7-42d2-9807-b3f35e67b914" />
 
 
 6. SR Latch(NOR)
 Symbol:
+<img width="899" height="724" alt="image" src="https://github.com/user-attachments/assets/67f369f2-c48f-46e2-b423-b80e80a46360" />
 
 Schematic:
+<img width="901" height="722" alt="image" src="https://github.com/user-attachments/assets/f1c48d35-1b56-4d28-adf2-2252d061c53f" />
 
 Layout:
+<img width="1910" height="999" alt="image" src="https://github.com/user-attachments/assets/2f714b36-1671-4423-bbb2-9245b66ec25d" />
 
 Testbench:
+<img width="1914" height="946" alt="image" src="https://github.com/user-attachments/assets/e4838237-9379-4211-baf6-934a83db3497" />
 
 
 
