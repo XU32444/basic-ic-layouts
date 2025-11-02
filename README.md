@@ -98,6 +98,22 @@ Layout:
 Testbench:
 <img width="1914" height="946" alt="image" src="https://github.com/user-attachments/assets/e4838237-9379-4211-baf6-934a83db3497" />
 
+7. H bridge
+Schematic:
+   <img width="1936" height="989" alt="image" src="https://github.com/user-attachments/assets/295e41ea-9190-4969-9ac8-53076dadcd12" />
+   <img width="1936" height="989" alt="image" src="https://github.com/user-attachments/assets/8e80f512-48ea-4b5d-b747-56a3cbca0274" />
+Layout:
+   <img width="1936" height="989" alt="image" src="https://github.com/user-attachments/assets/a28dba3e-cb4f-4cd1-9f49-fae6f954b494" />
+
+8: Deserializer
+Schematic:
+   <img width="1936" height="1013" alt="image" src="https://github.com/user-attachments/assets/b2a8c3b7-a90a-430b-a271-9f3db29650f8" />
+
+Layout:
+   <img width="1936" height="993" alt="image" src="https://github.com/user-attachments/assets/8383df91-9c65-4a3c-a38f-5837591dc1c1" />
+
+
+
 
 
 
